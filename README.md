@@ -59,7 +59,7 @@ PS : Contributing back to this project will be appreciated.
 
 Click 'Get Started with us today' on homepage
 
-Login (username: pranav password: khurana)
+Login (username: Satyabrat password: Dubey)
 
 Click on 'Test with custom input'
 
@@ -120,7 +120,7 @@ Using Genetics Algorithm, a number of trade-off solutions, in terms of multiple 
 
 ## Author 
 
-**Pranav Khurana**
+**Satyabrat Dubey**
 
 
 <i>PS: Project Report(in pdf) is available in root folder as AutomatedTimeTableScheduler.pdf</i>
